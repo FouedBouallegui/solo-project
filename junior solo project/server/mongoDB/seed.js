@@ -1,0 +1,21 @@
+const { db } = require("./index.js");
+// const Product = require("./Product.js");
+
+
+
+// const sampleData = require("../../react-client/data.json");
+
+// const insertSampleProducts = function () {
+//   Product.insertMany(sampleData)
+//     .then(() => {
+//       console.log("Database seeded successfully");
+//     })
+//     .catch((error) => {
+//       console.log("error seeding the database: ", error);
+//     })
+//     .finally(() => {
+//       db.close();
+//     });
+// };
+
+// insertSampleProducts();
